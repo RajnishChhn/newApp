@@ -1,0 +1,1393 @@
+{
+  "cnt": 29000,
+  "filters": {
+    "stufenzahl_g_Range": [{
+      "cnt": 29000,
+      "min": 0,
+      "max": 0
+    }],
+    "nennspannung_m_Range": [{
+      "cnt": 29000,
+      "min": 4,
+      "max": 440
+    }],
+    "nennleistung_m_Range": [{
+      "cnt": 29000,
+      "min": 0,
+      "max": 1127
+    }],
+    "lagerprogramm_g_Options": [{
+      "val": "0",
+      "cnt": 29000
+    }],
+    "motortyp_Options": [{
+        "val": "DC_Brushtype",
+        "cnt": 23655
+      },
+      {
+        "val": "DC_Brushless",
+        "cnt": 5290
+      },
+      {
+        "val": "AC",
+        "cnt": 55
+      }
+    ],
+    "betriebsart_g_Options": [{
+      "val": "",
+      "cnt": 29000
+    }],
+    "bus_m_Options": [{
+        "val": "0",
+        "cnt": 27690
+      },
+      {
+        "val": "1",
+        "cnt": 1310
+      }
+    ],
+    "baureihe_g_Options": [{
+      "val": "",
+      "cnt": 29000
+    }],
+    "arbeitsprinzip_a_Options": [{
+        "val": "#",
+        "cnt": 19842
+      },
+      {
+        "val": "R",
+        "cnt": 5677
+      },
+      {
+        "val": "A",
+        "cnt": 2162
+      },
+      {
+        "val": "",
+        "cnt": 1319
+      }
+    ],
+    "extwg_m_Options": [{
+        "val": "HS 63X55",
+        "cnt": 14284
+      },
+      {
+        "val": "HS 63X25",
+        "cnt": 6244
+      },
+      {
+        "val": "HS 80X80",
+        "cnt": 1329
+      },
+      {
+        "val": "CH 75X50",
+        "cnt": 846
+      },
+      {
+        "val": "HS 80X40",
+        "cnt": 831
+      },
+      {
+        "val": "CH 65X50",
+        "cnt": 747
+      },
+      {
+        "val": "CH 75X25",
+        "cnt": 569
+      },
+      {
+        "val": "CH 75X75",
+        "cnt": 495
+      },
+      {
+        "val": "CH 65X75",
+        "cnt": 481
+      },
+      {
+        "val": "CH 65X25",
+        "cnt": 442
+      }
+    ],
+    "elektroniktyp_m_Options": [{
+        "val": "",
+        "cnt": 26099
+      },
+      {
+        "val": "TJ",
+        "cnt": 919
+      },
+      {
+        "val": "DJ",
+        "cnt": 656
+      },
+      {
+        "val": "QJ",
+        "cnt": 571
+      },
+      {
+        "val": "NJ",
+        "cnt": 508
+      },
+      {
+        "val": "FD",
+        "cnt": 81
+      },
+      {
+        "val": "LJ",
+        "cnt": 74
+      },
+      {
+        "val": "QC",
+        "cnt": 65
+      },
+      {
+        "val": "fCore",
+        "cnt": 25
+      },
+      {
+        "val": "fGro DL",
+        "cnt": 2
+      }
+    ],
+    "nennspannung_a_Range": [{
+      "cnt": 29000,
+      "min": 0,
+      "max": 110
+    }]
+  },
+  "results": [{
+      "id": "20754310",
+      "bauart_m": "CH",
+      "nennspannung_m": 24,
+      "motor": "885650158501",
+      "getriebe": "",
+      "nenndrehmoment_ant": 17.4,
+      "baureihe_a": "",
+      "@version": "1",
+      "baureihe_m": "CH 65X25",
+      "lagerprogramm_g": 0,
+      "untersetzungsverhaeltnis_g": 0,
+      "elektroniktyp_m": "",
+      "extwg_m": "CH 65X25",
+      "bus_m": 0,
+      "@timestamp": "2018-03-08T12:47:49.700Z",
+      "nennspannung_a": 0,
+      "nenndrehzahl_ant": 3080,
+      "nennleistung_ant": 55.9,
+      "leerlaufdrehzahl_ant": 5830,
+      "anhaltemoment_ant": 97,
+      "nennleistung_m": 55.9,
+      "betriebsart_g": "",
+      "baureihe_g": "",
+      "arbeitsprinzip_a": "",
+      "maxmoment_ant": 0,
+      "motortyp": "DC_Brushless",
+      "stufenzahl_g": 0,
+      "type": "configurator_kombi_200118"
+    },
+    {
+      "id": "20754325",
+      "bauart_m": "CH",
+      "nennspannung_m": 110,
+      "motor": "885650312001",
+      "getriebe": "",
+      "nenndrehmoment_ant": 40,
+      "baureihe_a": "",
+      "@version": "1",
+      "baureihe_m": "CH 65X75",
+      "lagerprogramm_g": 0,
+      "untersetzungsverhaeltnis_g": 0,
+      "elektroniktyp_m": "",
+      "extwg_m": "CH 65X75",
+      "bus_m": 0,
+      "@timestamp": "2018-03-08T12:47:49.707Z",
+      "nennspannung_a": 0,
+      "nenndrehzahl_ant": 3200,
+      "nennleistung_ant": 134,
+      "leerlaufdrehzahl_ant": 5830,
+      "anhaltemoment_ant": 330,
+      "nennleistung_m": 134,
+      "betriebsart_g": "",
+      "baureihe_g": "",
+      "arbeitsprinzip_a": "",
+      "maxmoment_ant": 0,
+      "motortyp": "DC_Brushless",
+      "stufenzahl_g": 0,
+      "type": "configurator_kombi_200118"
+    },
+    {
+      "id": "20754329",
+      "bauart_m": "CH",
+      "nennspannung_m": 110,
+      "motor": "885650337001",
+      "getriebe": "",
+      "nenndrehmoment_ant": 40,
+      "baureihe_a": "",
+      "@version": "1",
+      "baureihe_m": "CH 65X75",
+      "lagerprogramm_g": 0,
+      "untersetzungsverhaeltnis_g": 0,
+      "elektroniktyp_m": "",
+      "extwg_m": "CH 65X75",
+      "bus_m": 0,
+      "@timestamp": "2018-03-08T12:47:49.708Z",
+      "nennspannung_a": 0,
+      "nenndrehzahl_ant": 3200,
+      "nennleistung_ant": 134,
+      "leerlaufdrehzahl_ant": 5830,
+      "anhaltemoment_ant": 330,
+      "nennleistung_m": 134,
+      "betriebsart_g": "",
+      "baureihe_g": "",
+      "arbeitsprinzip_a": "",
+      "maxmoment_ant": 0,
+      "motortyp": "DC_Brushless",
+      "stufenzahl_g": 0,
+      "type": "configurator_kombi_200118"
+    },
+    {
+      "id": "20754330",
+      "bauart_m": "CH",
+      "nennspannung_m": 110,
+      "motor": "885650337301",
+      "getriebe": "",
+      "nenndrehmoment_ant": 40,
+      "baureihe_a": "",
+      "@version": "1",
+      "baureihe_m": "CH 65X75",
+      "lagerprogramm_g": 0,
+      "untersetzungsverhaeltnis_g": 0,
+      "elektroniktyp_m": "",
+      "extwg_m": "CH 65X75",
+      "bus_m": 0,
+      "@timestamp": "2018-03-08T12:47:49.708Z",
+      "nennspannung_a": 0,
+      "nenndrehzahl_ant": 3200,
+      "nennleistung_ant": 134,
+      "leerlaufdrehzahl_ant": 5830,
+      "anhaltemoment_ant": 330,
+      "nennleistung_m": 134,
+      "betriebsart_g": "",
+      "baureihe_g": "",
+      "arbeitsprinzip_a": "",
+      "maxmoment_ant": 0,
+      "motortyp": "DC_Brushless",
+      "stufenzahl_g": 0,
+      "type": "configurator_kombi_200118"
+    },
+    {
+      "id": "20754327",
+      "bauart_m": "CH",
+      "nennspannung_m": 24,
+      "motor": "885650332101",
+      "getriebe": "",
+      "nenndrehmoment_ant": 36,
+      "baureihe_a": "",
+      "@version": "1",
+      "baureihe_m": "CH 65X75",
+      "lagerprogramm_g": 0,
+      "untersetzungsverhaeltnis_g": 0,
+      "elektroniktyp_m": "",
+      "extwg_m": "CH 65X75",
+      "bus_m": 0,
+      "@timestamp": "2018-03-08T12:47:49.722Z",
+      "nennspannung_a": 0,
+      "nenndrehzahl_ant": 2850,
+      "nennleistung_ant": 107,
+      "leerlaufdrehzahl_ant": 5540,
+      "anhaltemoment_ant": 265,
+      "nennleistung_m": 107,
+      "betriebsart_g": "",
+      "baureihe_g": "",
+      "arbeitsprinzip_a": "",
+      "maxmoment_ant": 0,
+      "motortyp": "DC_Brushless",
+      "stufenzahl_g": 0,
+      "type": "configurator_kombi_200118"
+    },
+    {
+      "id": "20754341",
+      "bauart_m": "CH",
+      "nennspannung_m": 110,
+      "motor": "885650379701",
+      "getriebe": "",
+      "nenndrehmoment_ant": 40,
+      "baureihe_a": "",
+      "@version": "1",
+      "baureihe_m": "CH 65X75",
+      "lagerprogramm_g": 0,
+      "untersetzungsverhaeltnis_g": 0,
+      "elektroniktyp_m": "",
+      "extwg_m": "CH 65X75",
+      "bus_m": 0,
+      "@timestamp": "2018-03-08T12:47:49.725Z",
+      "nennspannung_a": 0,
+      "nenndrehzahl_ant": 3200,
+      "nennleistung_ant": 134,
+      "leerlaufdrehzahl_ant": 5830,
+      "anhaltemoment_ant": 330,
+      "nennleistung_m": 134,
+      "betriebsart_g": "",
+      "baureihe_g": "",
+      "arbeitsprinzip_a": "",
+      "maxmoment_ant": 0,
+      "motortyp": "DC_Brushless",
+      "stufenzahl_g": 0,
+      "type": "configurator_kombi_200118"
+    },
+    {
+      "id": "20752153",
+      "bauart_m": "CH",
+      "nennspannung_m": 24,
+      "motor": "885660515006",
+      "getriebe": "",
+      "nenndrehmoment_ant": 40.5,
+      "baureihe_a": "",
+      "@version": "1",
+      "baureihe_m": "CH 65SX25",
+      "lagerprogramm_g": 0,
+      "untersetzungsverhaeltnis_g": 0,
+      "elektroniktyp_m": "NJ",
+      "extwg_m": "CH 65SX25",
+      "bus_m": 1,
+      "@timestamp": "2018-03-08T12:47:49.402Z",
+      "nennspannung_a": 0,
+      "nenndrehzahl_ant": 2900,
+      "nennleistung_ant": 123,
+      "leerlaufdrehzahl_ant": 4210,
+      "anhaltemoment_ant": 0,
+      "nennleistung_m": 123,
+      "betriebsart_g": "",
+      "baureihe_g": "",
+      "arbeitsprinzip_a": "",
+      "maxmoment_ant": 83,
+      "motortyp": "DC_Brushless",
+      "stufenzahl_g": 0,
+      "type": "configurator_kombi_200118"
+    },
+    {
+      "id": "20754372",
+      "bauart_m": "CH",
+      "nennspannung_m": 24,
+      "motor": "885650473104",
+      "getriebe": "",
+      "nenndrehmoment_ant": 17.4,
+      "baureihe_a": "",
+      "@version": "1",
+      "baureihe_m": "CH 65X25",
+      "lagerprogramm_g": 0,
+      "untersetzungsverhaeltnis_g": 0,
+      "elektroniktyp_m": "QJ",
+      "extwg_m": "CH 65X25",
+      "bus_m": 0,
+      "@timestamp": "2018-03-08T12:47:49.733Z",
+      "nennspannung_a": 0,
+      "nenndrehzahl_ant": 3080,
+      "nennleistung_ant": 55.9,
+      "leerlaufdrehzahl_ant": 5830,
+      "anhaltemoment_ant": 97,
+      "nennleistung_m": 55.9,
+      "betriebsart_g": "",
+      "baureihe_g": "",
+      "arbeitsprinzip_a": "",
+      "maxmoment_ant": 59,
+      "motortyp": "DC_Brushless",
+      "stufenzahl_g": 0,
+      "type": "configurator_kombi_200118"
+    },
+    {
+      "id": "20754160",
+      "bauart_m": "CHB",
+      "nennspannung_m": 24,
+      "motor": "8852201020",
+      "getriebe": "",
+      "nenndrehmoment_ant": 1.9,
+      "baureihe_a": "",
+      "@version": "1",
+      "baureihe_m": "CHB 22X22",
+      "lagerprogramm_g": 0,
+      "untersetzungsverhaeltnis_g": 0,
+      "elektroniktyp_m": "fCore",
+      "extwg_m": "CHB 22X22",
+      "bus_m": 0,
+      "@timestamp": "2018-03-08T12:47:49.739Z",
+      "nennspannung_a": 0,
+      "nenndrehzahl_ant": 8000,
+      "nennleistung_ant": 16,
+      "leerlaufdrehzahl_ant": 0,
+      "anhaltemoment_ant": 0,
+      "nennleistung_m": 16,
+      "betriebsart_g": "",
+      "baureihe_g": "",
+      "arbeitsprinzip_a": "",
+      "maxmoment_ant": 0,
+      "motortyp": "DC_Brushless",
+      "stufenzahl_g": 0,
+      "type": "configurator_kombi_200118"
+    },
+    {
+      "id": "20754178",
+      "bauart_m": "CH",
+      "nennspannung_m": 24,
+      "motor": "885400104001",
+      "getriebe": "",
+      "nenndrehmoment_ant": 4.6,
+      "baureihe_a": "",
+      "@version": "1",
+      "baureihe_m": "CH 40X25",
+      "lagerprogramm_g": 0,
+      "untersetzungsverhaeltnis_g": 0,
+      "elektroniktyp_m": "",
+      "extwg_m": "CH 40X25",
+      "bus_m": 0,
+      "@timestamp": "2018-03-08T12:47:49.740Z",
+      "nennspannung_a": 0,
+      "nenndrehzahl_ant": 3340,
+      "nennleistung_ant": 16.2,
+      "leerlaufdrehzahl_ant": 4900,
+      "anhaltemoment_ant": 16.8,
+      "nennleistung_m": 16.2,
+      "betriebsart_g": "",
+      "baureihe_g": "",
+      "arbeitsprinzip_a": "",
+      "maxmoment_ant": 0,
+      "motortyp": "DC_Brushless",
+      "stufenzahl_g": 0,
+      "type": "configurator_kombi_200118"
+    },
+    {
+      "id": "20752002",
+      "bauart_m": "CH",
+      "nennspannung_m": 24,
+      "motor": "885650254001",
+      "getriebe": "",
+      "nenndrehmoment_ant": 26,
+      "baureihe_a": "",
+      "@version": "1",
+      "baureihe_m": "CH 65X50",
+      "lagerprogramm_g": 0,
+      "untersetzungsverhaeltnis_g": 0,
+      "elektroniktyp_m": "",
+      "extwg_m": "CH 65X50",
+      "bus_m": 0,
+      "@timestamp": "2018-03-08T12:47:49.429Z",
+      "nennspannung_a": 0,
+      "nenndrehzahl_ant": 3090,
+      "nennleistung_ant": 84,
+      "leerlaufdrehzahl_ant": 5700,
+      "anhaltemoment_ant": 163,
+      "nennleistung_m": 84,
+      "betriebsart_g": "",
+      "baureihe_g": "",
+      "arbeitsprinzip_a": "",
+      "maxmoment_ant": 0,
+      "motortyp": "DC_Brushless",
+      "stufenzahl_g": 0,
+      "type": "configurator_kombi_200118"
+    },
+    {
+      "id": "20752015",
+      "bauart_m": "CH",
+      "nennspannung_m": 24,
+      "motor": "885650802002",
+      "getriebe": "",
+      "nenndrehmoment_ant": 24.8,
+      "baureihe_a": "",
+      "@version": "1",
+      "baureihe_m": "CH 65X50",
+      "lagerprogramm_g": 0,
+      "untersetzungsverhaeltnis_g": 0,
+      "elektroniktyp_m": "LJ",
+      "extwg_m": "CH 65X50",
+      "bus_m": 0,
+      "@timestamp": "2018-03-08T12:47:49.444Z",
+      "nennspannung_a": 0,
+      "nenndrehzahl_ant": 3655,
+      "nennleistung_ant": 95,
+      "leerlaufdrehzahl_ant": 8045,
+      "anhaltemoment_ant": 0,
+      "nennleistung_m": 95,
+      "betriebsart_g": "",
+      "baureihe_g": "",
+      "arbeitsprinzip_a": "",
+      "maxmoment_ant": 63.6,
+      "motortyp": "DC_Brushless",
+      "stufenzahl_g": 0,
+      "type": "configurator_kombi_200118"
+    },
+    {
+      "id": "20752017",
+      "bauart_m": "CH",
+      "nennspannung_m": 42,
+      "motor": "885650901102",
+      "getriebe": "",
+      "nenndrehmoment_ant": 37,
+      "baureihe_a": "",
+      "@version": "1",
+      "baureihe_m": "CH 65X75",
+      "lagerprogramm_g": 0,
+      "untersetzungsverhaeltnis_g": 0,
+      "elektroniktyp_m": "LJ",
+      "extwg_m": "CH 65X75",
+      "bus_m": 0,
+      "@timestamp": "2018-03-08T12:47:49.445Z",
+      "nennspannung_a": 0,
+      "nenndrehzahl_ant": 3700,
+      "nennleistung_ant": 140,
+      "leerlaufdrehzahl_ant": 7040,
+      "anhaltemoment_ant": 0,
+      "nennleistung_m": 140,
+      "betriebsart_g": "",
+      "baureihe_g": "",
+      "arbeitsprinzip_a": "",
+      "maxmoment_ant": 155,
+      "motortyp": "DC_Brushless",
+      "stufenzahl_g": 0,
+      "type": "configurator_kombi_200118"
+    },
+    {
+      "id": "20752021",
+      "bauart_m": "CH",
+      "nennspannung_m": 24,
+      "motor": "885660111601",
+      "getriebe": "",
+      "nenndrehmoment_ant": 34.6,
+      "baureihe_a": "",
+      "@version": "1",
+      "baureihe_m": "CH 65SX25",
+      "lagerprogramm_g": 0,
+      "untersetzungsverhaeltnis_g": 0,
+      "elektroniktyp_m": "",
+      "extwg_m": "CH 65SX25",
+      "bus_m": 0,
+      "@timestamp": "2018-03-08T12:47:49.446Z",
+      "nennspannung_a": 0,
+      "nenndrehzahl_ant": 2980,
+      "nennleistung_ant": 108,
+      "leerlaufdrehzahl_ant": 4580,
+      "anhaltemoment_ant": 260,
+      "nennleistung_m": 108,
+      "betriebsart_g": "",
+      "baureihe_g": "",
+      "arbeitsprinzip_a": "",
+      "maxmoment_ant": 86,
+      "motortyp": "DC_Brushless",
+      "stufenzahl_g": 0,
+      "type": "configurator_kombi_200118"
+    },
+    {
+      "id": "20752023",
+      "bauart_m": "CH",
+      "nennspannung_m": 40,
+      "motor": "885660114101",
+      "getriebe": "",
+      "nenndrehmoment_ant": 33.6,
+      "baureihe_a": "",
+      "@version": "1",
+      "baureihe_m": "CH 65SX25",
+      "lagerprogramm_g": 0,
+      "untersetzungsverhaeltnis_g": 0,
+      "elektroniktyp_m": "",
+      "extwg_m": "CH 65SX25",
+      "bus_m": 0,
+      "@timestamp": "2018-03-08T12:47:49.447Z",
+      "nennspannung_a": 0,
+      "nenndrehzahl_ant": 3200,
+      "nennleistung_ant": 113,
+      "leerlaufdrehzahl_ant": 4770,
+      "anhaltemoment_ant": 0,
+      "nennleistung_m": 113,
+      "betriebsart_g": "",
+      "baureihe_g": "",
+      "arbeitsprinzip_a": "",
+      "maxmoment_ant": 86,
+      "motortyp": "DC_Brushless",
+      "stufenzahl_g": 0,
+      "type": "configurator_kombi_200118"
+    }
+  ],
+  "res": {
+    "took": 75,
+    "timed_out": false,
+    "_shards": {
+      "total": 5,
+      "successful": 5,
+      "skipped": 0,
+      "failed": 0
+    },
+    "hits": {
+      "total": 29000,
+      "max_score": 1,
+      "hits": [{
+          "_index": "configurator_kombi_200118",
+          "_type": "doc",
+          "_id": "VdCnBWIBFwY4VbaVSoBt",
+          "_score": 1,
+          "_source": {
+            "bauart_m": "CH",
+            "nennspannung_m": 24,
+            "motor": "885650158501",
+            "getriebe": "",
+            "nenndrehmoment_ant": 17.4,
+            "baureihe_a": "",
+            "@version": "1",
+            "baureihe_m": "CH 65X25",
+            "lagerprogramm_g": 0,
+            "untersetzungsverhaeltnis_g": 0,
+            "elektroniktyp_m": "",
+            "extwg_m": "CH 65X25",
+            "id": "20754310",
+            "bus_m": 0,
+            "@timestamp": "2018-03-08T12:47:49.700Z",
+            "nennspannung_a": 0,
+            "nenndrehzahl_ant": 3080,
+            "nennleistung_ant": 55.9,
+            "leerlaufdrehzahl_ant": 5830,
+            "anhaltemoment_ant": 97,
+            "nennleistung_m": 55.9,
+            "betriebsart_g": "",
+            "baureihe_g": "",
+            "arbeitsprinzip_a": "",
+            "maxmoment_ant": 0,
+            "motortyp": "DC_Brushless",
+            "stufenzahl_g": 0,
+            "type": "configurator_kombi_200118"
+          }
+        },
+        {
+          "_index": "configurator_kombi_200118",
+          "_type": "doc",
+          "_id": "Z9CnBWIBFwY4VbaVSoBt",
+          "_score": 1,
+          "_source": {
+            "bauart_m": "CH",
+            "nennspannung_m": 110,
+            "motor": "885650312001",
+            "getriebe": "",
+            "nenndrehmoment_ant": 40,
+            "baureihe_a": "",
+            "@version": "1",
+            "baureihe_m": "CH 65X75",
+            "lagerprogramm_g": 0,
+            "untersetzungsverhaeltnis_g": 0,
+            "elektroniktyp_m": "",
+            "extwg_m": "CH 65X75",
+            "id": "20754325",
+            "bus_m": 0,
+            "@timestamp": "2018-03-08T12:47:49.707Z",
+            "nennspannung_a": 0,
+            "nenndrehzahl_ant": 3200,
+            "nennleistung_ant": 134,
+            "leerlaufdrehzahl_ant": 5830,
+            "anhaltemoment_ant": 330,
+            "nennleistung_m": 134,
+            "betriebsart_g": "",
+            "baureihe_g": "",
+            "arbeitsprinzip_a": "",
+            "maxmoment_ant": 0,
+            "motortyp": "DC_Brushless",
+            "stufenzahl_g": 0,
+            "type": "configurator_kombi_200118"
+          }
+        },
+        {
+          "_index": "configurator_kombi_200118",
+          "_type": "doc",
+          "_id": "aNCnBWIBFwY4VbaVSoBt",
+          "_score": 1,
+          "_source": {
+            "bauart_m": "CH",
+            "nennspannung_m": 110,
+            "motor": "885650337001",
+            "getriebe": "",
+            "nenndrehmoment_ant": 40,
+            "baureihe_a": "",
+            "@version": "1",
+            "baureihe_m": "CH 65X75",
+            "lagerprogramm_g": 0,
+            "untersetzungsverhaeltnis_g": 0,
+            "elektroniktyp_m": "",
+            "extwg_m": "CH 65X75",
+            "id": "20754329",
+            "bus_m": 0,
+            "@timestamp": "2018-03-08T12:47:49.708Z",
+            "nennspannung_a": 0,
+            "nenndrehzahl_ant": 3200,
+            "nennleistung_ant": 134,
+            "leerlaufdrehzahl_ant": 5830,
+            "anhaltemoment_ant": 330,
+            "nennleistung_m": 134,
+            "betriebsart_g": "",
+            "baureihe_g": "",
+            "arbeitsprinzip_a": "",
+            "maxmoment_ant": 0,
+            "motortyp": "DC_Brushless",
+            "stufenzahl_g": 0,
+            "type": "configurator_kombi_200118"
+          }
+        },
+        {
+          "_index": "configurator_kombi_200118",
+          "_type": "doc",
+          "_id": "adCnBWIBFwY4VbaVSoBt",
+          "_score": 1,
+          "_source": {
+            "bauart_m": "CH",
+            "nennspannung_m": 110,
+            "motor": "885650337301",
+            "getriebe": "",
+            "nenndrehmoment_ant": 40,
+            "baureihe_a": "",
+            "@version": "1",
+            "baureihe_m": "CH 65X75",
+            "lagerprogramm_g": 0,
+            "untersetzungsverhaeltnis_g": 0,
+            "elektroniktyp_m": "",
+            "extwg_m": "CH 65X75",
+            "id": "20754330",
+            "bus_m": 0,
+            "@timestamp": "2018-03-08T12:47:49.708Z",
+            "nennspannung_a": 0,
+            "nenndrehzahl_ant": 3200,
+            "nennleistung_ant": 134,
+            "leerlaufdrehzahl_ant": 5830,
+            "anhaltemoment_ant": 330,
+            "nennleistung_m": 134,
+            "betriebsart_g": "",
+            "baureihe_g": "",
+            "arbeitsprinzip_a": "",
+            "maxmoment_ant": 0,
+            "motortyp": "DC_Brushless",
+            "stufenzahl_g": 0,
+            "type": "configurator_kombi_200118"
+          }
+        },
+        {
+          "_index": "configurator_kombi_200118",
+          "_type": "doc",
+          "_id": "a9CnBWIBFwY4VbaVSoBt",
+          "_score": 1,
+          "_source": {
+            "bauart_m": "CH",
+            "nennspannung_m": 24,
+            "motor": "885650332101",
+            "getriebe": "",
+            "nenndrehmoment_ant": 36,
+            "baureihe_a": "",
+            "@version": "1",
+            "baureihe_m": "CH 65X75",
+            "lagerprogramm_g": 0,
+            "untersetzungsverhaeltnis_g": 0,
+            "elektroniktyp_m": "",
+            "extwg_m": "CH 65X75",
+            "id": "20754327",
+            "bus_m": 0,
+            "@timestamp": "2018-03-08T12:47:49.722Z",
+            "nennspannung_a": 0,
+            "nenndrehzahl_ant": 2850,
+            "nennleistung_ant": 107,
+            "leerlaufdrehzahl_ant": 5540,
+            "anhaltemoment_ant": 265,
+            "nennleistung_m": 107,
+            "betriebsart_g": "",
+            "baureihe_g": "",
+            "arbeitsprinzip_a": "",
+            "maxmoment_ant": 0,
+            "motortyp": "DC_Brushless",
+            "stufenzahl_g": 0,
+            "type": "configurator_kombi_200118"
+          }
+        },
+        {
+          "_index": "configurator_kombi_200118",
+          "_type": "doc",
+          "_id": "ddCnBWIBFwY4VbaVSoBt",
+          "_score": 1,
+          "_source": {
+            "bauart_m": "CH",
+            "nennspannung_m": 110,
+            "motor": "885650379701",
+            "getriebe": "",
+            "nenndrehmoment_ant": 40,
+            "baureihe_a": "",
+            "@version": "1",
+            "baureihe_m": "CH 65X75",
+            "lagerprogramm_g": 0,
+            "untersetzungsverhaeltnis_g": 0,
+            "elektroniktyp_m": "",
+            "extwg_m": "CH 65X75",
+            "id": "20754341",
+            "bus_m": 0,
+            "@timestamp": "2018-03-08T12:47:49.725Z",
+            "nennspannung_a": 0,
+            "nenndrehzahl_ant": 3200,
+            "nennleistung_ant": 134,
+            "leerlaufdrehzahl_ant": 5830,
+            "anhaltemoment_ant": 330,
+            "nennleistung_m": 134,
+            "betriebsart_g": "",
+            "baureihe_g": "",
+            "arbeitsprinzip_a": "",
+            "maxmoment_ant": 0,
+            "motortyp": "DC_Brushless",
+            "stufenzahl_g": 0,
+            "type": "configurator_kombi_200118"
+          }
+        },
+        {
+          "_index": "configurator_kombi_200118",
+          "_type": "doc",
+          "_id": "29CnBWIBFwY4VbaVSX-0",
+          "_score": 1,
+          "_source": {
+            "bauart_m": "CH",
+            "nennspannung_m": 24,
+            "motor": "885660515006",
+            "getriebe": "",
+            "nenndrehmoment_ant": 40.5,
+            "baureihe_a": "",
+            "@version": "1",
+            "baureihe_m": "CH 65SX25",
+            "lagerprogramm_g": 0,
+            "untersetzungsverhaeltnis_g": 0,
+            "elektroniktyp_m": "NJ",
+            "extwg_m": "CH 65SX25",
+            "id": "20752153",
+            "bus_m": 1,
+            "@timestamp": "2018-03-08T12:47:49.402Z",
+            "nennspannung_a": 0,
+            "nenndrehzahl_ant": 2900,
+            "nennleistung_ant": 123,
+            "leerlaufdrehzahl_ant": 4210,
+            "anhaltemoment_ant": 0,
+            "nennleistung_m": 123,
+            "betriebsart_g": "",
+            "baureihe_g": "",
+            "arbeitsprinzip_a": "",
+            "maxmoment_ant": 83,
+            "motortyp": "DC_Brushless",
+            "stufenzahl_g": 0,
+            "type": "configurator_kombi_200118"
+          }
+        },
+        {
+          "_index": "configurator_kombi_200118",
+          "_type": "doc",
+          "_id": "kdCnBWIBFwY4VbaVSoBt",
+          "_score": 1,
+          "_source": {
+            "bauart_m": "CH",
+            "nennspannung_m": 24,
+            "motor": "885650473104",
+            "getriebe": "",
+            "nenndrehmoment_ant": 17.4,
+            "baureihe_a": "",
+            "@version": "1",
+            "baureihe_m": "CH 65X25",
+            "lagerprogramm_g": 0,
+            "untersetzungsverhaeltnis_g": 0,
+            "elektroniktyp_m": "QJ",
+            "extwg_m": "CH 65X25",
+            "id": "20754372",
+            "bus_m": 0,
+            "@timestamp": "2018-03-08T12:47:49.733Z",
+            "nennspannung_a": 0,
+            "nenndrehzahl_ant": 3080,
+            "nennleistung_ant": 55.9,
+            "leerlaufdrehzahl_ant": 5830,
+            "anhaltemoment_ant": 97,
+            "nennleistung_m": 55.9,
+            "betriebsart_g": "",
+            "baureihe_g": "",
+            "arbeitsprinzip_a": "",
+            "maxmoment_ant": 59,
+            "motortyp": "DC_Brushless",
+            "stufenzahl_g": 0,
+            "type": "configurator_kombi_200118"
+          }
+        },
+        {
+          "_index": "configurator_kombi_200118",
+          "_type": "doc",
+          "_id": "l9CnBWIBFwY4VbaVSoBt",
+          "_score": 1,
+          "_source": {
+            "bauart_m": "CHB",
+            "nennspannung_m": 24,
+            "motor": "8852201020",
+            "getriebe": "",
+            "nenndrehmoment_ant": 1.9,
+            "baureihe_a": "",
+            "@version": "1",
+            "baureihe_m": "CHB 22X22",
+            "lagerprogramm_g": 0,
+            "untersetzungsverhaeltnis_g": 0,
+            "elektroniktyp_m": "fCore",
+            "extwg_m": "CHB 22X22",
+            "id": "20754160",
+            "bus_m": 0,
+            "@timestamp": "2018-03-08T12:47:49.739Z",
+            "nennspannung_a": 0,
+            "nenndrehzahl_ant": 8000,
+            "nennleistung_ant": 16,
+            "leerlaufdrehzahl_ant": 0,
+            "anhaltemoment_ant": 0,
+            "nennleistung_m": 16,
+            "betriebsart_g": "",
+            "baureihe_g": "",
+            "arbeitsprinzip_a": "",
+            "maxmoment_ant": 0,
+            "motortyp": "DC_Brushless",
+            "stufenzahl_g": 0,
+            "type": "configurator_kombi_200118"
+          }
+        },
+        {
+          "_index": "configurator_kombi_200118",
+          "_type": "doc",
+          "_id": "ndCnBWIBFwY4VbaVSoBt",
+          "_score": 1,
+          "_source": {
+            "bauart_m": "CH",
+            "nennspannung_m": 24,
+            "motor": "885400104001",
+            "getriebe": "",
+            "nenndrehmoment_ant": 4.6,
+            "baureihe_a": "",
+            "@version": "1",
+            "baureihe_m": "CH 40X25",
+            "lagerprogramm_g": 0,
+            "untersetzungsverhaeltnis_g": 0,
+            "elektroniktyp_m": "",
+            "extwg_m": "CH 40X25",
+            "id": "20754178",
+            "bus_m": 0,
+            "@timestamp": "2018-03-08T12:47:49.740Z",
+            "nennspannung_a": 0,
+            "nenndrehzahl_ant": 3340,
+            "nennleistung_ant": 16.2,
+            "leerlaufdrehzahl_ant": 4900,
+            "anhaltemoment_ant": 16.8,
+            "nennleistung_m": 16.2,
+            "betriebsart_g": "",
+            "baureihe_g": "",
+            "arbeitsprinzip_a": "",
+            "maxmoment_ant": 0,
+            "motortyp": "DC_Brushless",
+            "stufenzahl_g": 0,
+            "type": "configurator_kombi_200118"
+          }
+        },
+        {
+          "_index": "configurator_kombi_200118",
+          "_type": "doc",
+          "_id": "_dCnBWIBFwY4VbaVSX-1",
+          "_score": 1,
+          "_source": {
+            "bauart_m": "CH",
+            "nennspannung_m": 24,
+            "motor": "885650254001",
+            "getriebe": "",
+            "nenndrehmoment_ant": 26,
+            "baureihe_a": "",
+            "@version": "1",
+            "baureihe_m": "CH 65X50",
+            "lagerprogramm_g": 0,
+            "untersetzungsverhaeltnis_g": 0,
+            "elektroniktyp_m": "",
+            "extwg_m": "CH 65X50",
+            "id": "20752002",
+            "bus_m": 0,
+            "@timestamp": "2018-03-08T12:47:49.429Z",
+            "nennspannung_a": 0,
+            "nenndrehzahl_ant": 3090,
+            "nennleistung_ant": 84,
+            "leerlaufdrehzahl_ant": 5700,
+            "anhaltemoment_ant": 163,
+            "nennleistung_m": 84,
+            "betriebsart_g": "",
+            "baureihe_g": "",
+            "arbeitsprinzip_a": "",
+            "maxmoment_ant": 0,
+            "motortyp": "DC_Brushless",
+            "stufenzahl_g": 0,
+            "type": "configurator_kombi_200118"
+          }
+        },
+        {
+          "_index": "configurator_kombi_200118",
+          "_type": "doc",
+          "_id": "CtCnBWIBFwY4VbaVSYC1",
+          "_score": 1,
+          "_source": {
+            "bauart_m": "CH",
+            "nennspannung_m": 24,
+            "motor": "885650802002",
+            "getriebe": "",
+            "nenndrehmoment_ant": 24.8,
+            "baureihe_a": "",
+            "@version": "1",
+            "baureihe_m": "CH 65X50",
+            "lagerprogramm_g": 0,
+            "untersetzungsverhaeltnis_g": 0,
+            "elektroniktyp_m": "LJ",
+            "extwg_m": "CH 65X50",
+            "id": "20752015",
+            "bus_m": 0,
+            "@timestamp": "2018-03-08T12:47:49.444Z",
+            "nennspannung_a": 0,
+            "nenndrehzahl_ant": 3655,
+            "nennleistung_ant": 95,
+            "leerlaufdrehzahl_ant": 8045,
+            "anhaltemoment_ant": 0,
+            "nennleistung_m": 95,
+            "betriebsart_g": "",
+            "baureihe_g": "",
+            "arbeitsprinzip_a": "",
+            "maxmoment_ant": 63.6,
+            "motortyp": "DC_Brushless",
+            "stufenzahl_g": 0,
+            "type": "configurator_kombi_200118"
+          }
+        },
+        {
+          "_index": "configurator_kombi_200118",
+          "_type": "doc",
+          "_id": "DNCnBWIBFwY4VbaVSYC1",
+          "_score": 1,
+          "_source": {
+            "bauart_m": "CH",
+            "nennspannung_m": 42,
+            "motor": "885650901102",
+            "getriebe": "",
+            "nenndrehmoment_ant": 37,
+            "baureihe_a": "",
+            "@version": "1",
+            "baureihe_m": "CH 65X75",
+            "lagerprogramm_g": 0,
+            "untersetzungsverhaeltnis_g": 0,
+            "elektroniktyp_m": "LJ",
+            "extwg_m": "CH 65X75",
+            "id": "20752017",
+            "bus_m": 0,
+            "@timestamp": "2018-03-08T12:47:49.445Z",
+            "nennspannung_a": 0,
+            "nenndrehzahl_ant": 3700,
+            "nennleistung_ant": 140,
+            "leerlaufdrehzahl_ant": 7040,
+            "anhaltemoment_ant": 0,
+            "nennleistung_m": 140,
+            "betriebsart_g": "",
+            "baureihe_g": "",
+            "arbeitsprinzip_a": "",
+            "maxmoment_ant": 155,
+            "motortyp": "DC_Brushless",
+            "stufenzahl_g": 0,
+            "type": "configurator_kombi_200118"
+          }
+        },
+        {
+          "_index": "configurator_kombi_200118",
+          "_type": "doc",
+          "_id": "ENCnBWIBFwY4VbaVSYC1",
+          "_score": 1,
+          "_source": {
+            "bauart_m": "CH",
+            "nennspannung_m": 24,
+            "motor": "885660111601",
+            "getriebe": "",
+            "nenndrehmoment_ant": 34.6,
+            "baureihe_a": "",
+            "@version": "1",
+            "baureihe_m": "CH 65SX25",
+            "lagerprogramm_g": 0,
+            "untersetzungsverhaeltnis_g": 0,
+            "elektroniktyp_m": "",
+            "extwg_m": "CH 65SX25",
+            "id": "20752021",
+            "bus_m": 0,
+            "@timestamp": "2018-03-08T12:47:49.446Z",
+            "nennspannung_a": 0,
+            "nenndrehzahl_ant": 2980,
+            "nennleistung_ant": 108,
+            "leerlaufdrehzahl_ant": 4580,
+            "anhaltemoment_ant": 260,
+            "nennleistung_m": 108,
+            "betriebsart_g": "",
+            "baureihe_g": "",
+            "arbeitsprinzip_a": "",
+            "maxmoment_ant": 86,
+            "motortyp": "DC_Brushless",
+            "stufenzahl_g": 0,
+            "type": "configurator_kombi_200118"
+          }
+        },
+        {
+          "_index": "configurator_kombi_200118",
+          "_type": "doc",
+          "_id": "EtCnBWIBFwY4VbaVSYC1",
+          "_score": 1,
+          "_source": {
+            "bauart_m": "CH",
+            "nennspannung_m": 40,
+            "motor": "885660114101",
+            "getriebe": "",
+            "nenndrehmoment_ant": 33.6,
+            "baureihe_a": "",
+            "@version": "1",
+            "baureihe_m": "CH 65SX25",
+            "lagerprogramm_g": 0,
+            "untersetzungsverhaeltnis_g": 0,
+            "elektroniktyp_m": "",
+            "extwg_m": "CH 65SX25",
+            "id": "20752023",
+            "bus_m": 0,
+            "@timestamp": "2018-03-08T12:47:49.447Z",
+            "nennspannung_a": 0,
+            "nenndrehzahl_ant": 3200,
+            "nennleistung_ant": 113,
+            "leerlaufdrehzahl_ant": 4770,
+            "anhaltemoment_ant": 0,
+            "nennleistung_m": 113,
+            "betriebsart_g": "",
+            "baureihe_g": "",
+            "arbeitsprinzip_a": "",
+            "maxmoment_ant": 86,
+            "motortyp": "DC_Brushless",
+            "stufenzahl_g": 0,
+            "type": "configurator_kombi_200118"
+          }
+        }
+      ]
+    },
+    "aggregations": {
+      "stufenzahl_g": {
+        "doc_count": 29000,
+        "min": {
+          "value": 0
+        },
+        "max": {
+          "value": 0
+        }
+      },
+      "nennspannung_m": {
+        "doc_count": 29000,
+        "min": {
+          "value": 4
+        },
+        "max": {
+          "value": 440
+        }
+      },
+      "nennleistung_m": {
+        "doc_count": 29000,
+        "min": {
+          "value": 0
+        },
+        "max": {
+          "value": 1127
+        }
+      },
+      "lagerprogramm_g": {
+        "meta": {
+          "type": "select"
+        },
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [{
+          "key": 0,
+          "doc_count": 29000
+        }]
+      },
+      "motortyp": {
+        "meta": {
+          "type": "select"
+        },
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [{
+            "key": "DC_Brushtype",
+            "doc_count": 23655
+          },
+          {
+            "key": "DC_Brushless",
+            "doc_count": 5290
+          },
+          {
+            "key": "AC",
+            "doc_count": 55
+          }
+        ]
+      },
+      "betriebsart_g": {
+        "meta": {
+          "type": "select"
+        },
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [{
+          "key": "",
+          "doc_count": 29000
+        }]
+      },
+      "bus_m": {
+        "meta": {
+          "type": "select"
+        },
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [{
+            "key": 0,
+            "doc_count": 27690
+          },
+          {
+            "key": 1,
+            "doc_count": 1310
+          }
+        ]
+      },
+      "baureihe_g": {
+        "meta": {
+          "type": "select"
+        },
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [{
+          "key": "",
+          "doc_count": 29000
+        }]
+      },
+      "arbeitsprinzip_a": {
+        "meta": {
+          "type": "select"
+        },
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [{
+            "key": "#",
+            "doc_count": 19842
+          },
+          {
+            "key": "R",
+            "doc_count": 5677
+          },
+          {
+            "key": "A",
+            "doc_count": 2162
+          },
+          {
+            "key": "",
+            "doc_count": 1319
+          }
+        ]
+      },
+      "extwg_m": {
+        "meta": {
+          "type": "select"
+        },
+        "doc_count_error_upper_bound": 54,
+        "sum_other_doc_count": 2732,
+        "buckets": [{
+            "key": "HS 63X55",
+            "doc_count": 14284
+          },
+          {
+            "key": "HS 63X25",
+            "doc_count": 6244
+          },
+          {
+            "key": "HS 80X80",
+            "doc_count": 1329
+          },
+          {
+            "key": "CH 75X50",
+            "doc_count": 846
+          },
+          {
+            "key": "HS 80X40",
+            "doc_count": 831
+          },
+          {
+            "key": "CH 65X50",
+            "doc_count": 747
+          },
+          {
+            "key": "CH 75X25",
+            "doc_count": 569
+          },
+          {
+            "key": "CH 75X75",
+            "doc_count": 495
+          },
+          {
+            "key": "CH 65X75",
+            "doc_count": 481
+          },
+          {
+            "key": "CH 65X25",
+            "doc_count": 442
+          }
+        ]
+      },
+      "elektroniktyp_m": {
+        "meta": {
+          "type": "select"
+        },
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0,
+        "buckets": [{
+            "key": "",
+            "doc_count": 26099
+          },
+          {
+            "key": "TJ",
+            "doc_count": 919
+          },
+          {
+            "key": "DJ",
+            "doc_count": 656
+          },
+          {
+            "key": "QJ",
+            "doc_count": 571
+          },
+          {
+            "key": "NJ",
+            "doc_count": 508
+          },
+          {
+            "key": "FD",
+            "doc_count": 81
+          },
+          {
+            "key": "LJ",
+            "doc_count": 74
+          },
+          {
+            "key": "QC",
+            "doc_count": 65
+          },
+          {
+            "key": "fCore",
+            "doc_count": 25
+          },
+          {
+            "key": "fGro DL",
+            "doc_count": 2
+          }
+        ]
+      },
+      "nennspannung_a": {
+        "doc_count": 29000,
+        "min": {
+          "value": 0
+        },
+        "max": {
+          "value": 110
+        }
+      }
+    }
+  },
+  "pages": 10,
+  "currentPage": 1
+}
